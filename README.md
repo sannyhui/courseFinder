@@ -2,4 +2,5 @@
 
 ### Bachelor Course Finder in Hong Kong.
 
-Those data were collected for my classmates to select the course that is suitable for them.
+Please note that this repository will not be updated since the content has been merged with my introduction page. 
+
